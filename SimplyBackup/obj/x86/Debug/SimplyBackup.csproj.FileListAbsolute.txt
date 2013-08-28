@@ -1,0 +1,24 @@
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\VentanaPrincipal.baml
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\VentanaPrincipal.g.cs
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\App.g.cs
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup_MarkupCompile.cache
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.g.resources
+D:\Porteria\2013\SimplyBackup\SimplyBackup\bin\Debug\SimplyBackup.exe.config
+D:\Porteria\2013\SimplyBackup\SimplyBackup\bin\Debug\SimplyBackup.exe
+D:\Porteria\2013\SimplyBackup\SimplyBackup\bin\Debug\SimplyBackup.pdb
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.exe
+D:\Porteria\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.pdb
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\bin\Debug\SimplyBackup.exe.config
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.exe
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.pdb
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\bin\Debug\SimplyBackup.exe
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\bin\Debug\SimplyBackup.pdb
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\VentanaPrincipal.baml
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\VentanaPrincipal.g.cs
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\App.g.cs
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup_MarkupCompile.cache
+C:\Users\develop\Documents\Visual Studio 2010\Projects\2013\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.g.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\SimplyBackup\SimplyBackup\bin\Debug\SimplyBackup.exe.config
+C:\Users\developer\Documents\Visual Studio 2010\Projects\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.exe
+C:\Users\developer\Documents\Visual Studio 2010\Projects\SimplyBackup\SimplyBackup\obj\x86\Debug\SimplyBackup.pdb

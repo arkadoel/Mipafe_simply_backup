@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="SimplyBackup.VentanaPrincipal" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="SimplyBackup"
+	Background="Gainsboro"
+	Width="632"
+	WindowStyle="None"
+	AllowsTransparency="True" WindowStartupLocation="CenterScreen"
+	Height="431">
+	<Grid>
+		<Rectangle
+			Fill="Gainsboro"
+			Stroke="Black"
+			StrokeThickness="3"
+			MouseLeftButtonDown="Fondo_MouseLeftButtonDown"
+			Name="fondo" />
+		<Button HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="12,46,0,0"
+			Width="295"
+			Height="23"
+			Content="Editar tareas semanales programadas"
+			Name="button1"
+			Click="button1_Click" />
+		<Button
+			Content="X"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Right"
+			VerticalAlignment="Top"
+			Margin="0,0,2,0"
+			Width="26"
+			Height="23"
+			Name="button2"
+			Click="button2_Click" />
+		<Button
+			Content="Cerrar aplicacion" HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="12,85,0,0"
+			Width="196"
+			Height="23"
+			Name="button3"
+			Click="button3_Click" />
+		<Label
+			Content="MIPAFE Simply Backup"
+			FontWeight="Heavy"
+			FontSize="18" HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Width="264"
+			Height="40" />
+        <TextBox BorderBrush="Black" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" TextWrapping="Wrap" AcceptsReturn="true" Margin="12,152,12,12" Name="txtLog" />
+        <Button Content="Actualizar" Height="23" HorizontalAlignment="Right" Margin="0,131,12,0" Name="button4" VerticalAlignment="Top" Width="75" Click="button4_Click" />
+        <Label Content="Ultimas entradas en el LOG:" Height="28" HorizontalAlignment="Left" Margin="12,130,0,0" Name="label1" VerticalAlignment="Top" Width="448" />
+    </Grid>
+</Window>
