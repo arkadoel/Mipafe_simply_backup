@@ -1,7 +1,20 @@
 ﻿<?xml version="1.0"?>
 <tareas>
 	<tarea 
-		nombre="tarea 1" 
+		nombre="tarea 2" 
+		hora="19:00" 
+		origen="C:\Python27" 
+		destino="\\Vboxsvr\datos\t"
+		lunes="true" 
+		martes="true" 
+		miercoles="true" 
+		jueves="true" 
+		viernes="true" 
+		sabado="true" 
+		domingo="true"
+	/>
+	<tarea 
+		nombre="tarea 3" 
 		hora="19:00" 
 		origen="C:\Python27" 
 		destino="\\Vboxsvr\datos\tmp"
@@ -13,4 +26,5 @@
 		sabado="true" 
 		domingo="true"
 	/>
+
 </tareas>
